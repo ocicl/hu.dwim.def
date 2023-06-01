@@ -2,8 +2,8 @@
 
 One macro to define them all.
 
-|---------+------------------------------------------------------------------------------------------------------------------|
-| source  | git:https://github.com/hu-dwim/hu.dwim.def.git                                                                   |
-| commit  | 6801c4c                                                                                                          |
-| systems | hu.dwim.def  hu.dwim.def+hu.dwim.common hu.dwim.def+contextl hu.dwim.def+cl-l10n hu.dwim.def+hu.dwim.delico hu.dwim.def+swank |
-|---------+------------------------------------------------------------------------------------------------------------------|
+|---------+---------------------------------------------------------------------------------------------------|
+| source  | git:https://github.com/hu-dwim/hu.dwim.def.git                                                    |
+| commit  | 6801c4c                                                                                           |
+| systems | hu.dwim.def hu.dwim.def+hu.dwim.common hu.dwim.def+contextl hu.dwim.def+cl-l10n hu.dwim.def+swank |
+|---------+---------------------------------------------------------------------------------------------------|
